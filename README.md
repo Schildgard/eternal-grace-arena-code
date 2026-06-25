@@ -1,11 +1,7 @@
 # Eternal Grace Arena
 
+
 🎬 **Gameplay footage:** https://youtu.be/dwP9lMNThy0
-
-
-<div align="center">
-<img width="2915" height="1319" alt="EG2" src="https://github.com/user-attachments/assets/0ff76999-29b7-4a12-bf67-fa1825e277a7" width = "600"/>
- </div>
 
 
 > A third-person **soulslike action-combat game** built in **Unreal Engine 5 (C++)** — my **first-ever Unreal project**, developed solo.
@@ -16,6 +12,11 @@ I share it as an **engineering portfolio piece**: the focus below is on *how the
 
 > **Status — complete but an early-career project.** Unlike my later work this is not architecturally polished; its value is **breadth and end-to-end ownership** — a whole game, across every gameplay system, built alone as a first Unreal project.
 
+<div align="center">
+<img width="2915" height="1319" alt="EG2" src="https://github.com/user-attachments/assets/0ff76999-29b7-4a12-bf67-fa1825e277a7" width = "600"/>
+ </div>
+
+ 
 ---
 
 ## Where this fits in my development
