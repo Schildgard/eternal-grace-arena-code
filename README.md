@@ -1,5 +1,13 @@
 # Eternal Grace Arena
 
+🎬 **Gameplay footage:** https://youtu.be/dwP9lMNThy0
+
+
+<div align="center">
+<img width="2915" height="1319" alt="EG2" src="https://github.com/user-attachments/assets/0ff76999-29b7-4a12-bf67-fa1825e277a7" width = "600"/>
+ </div>
+
+
 > A third-person **soulslike action-combat game** built in **Unreal Engine 5 (C++)** — my **first-ever Unreal project**, developed solo.
 
 *Eternal Grace Arena* is a complete, self-contained boss-rush soulslike: you fight a series of bosses in 1v1 arena battles from an atmospheric hub area. I built it solo over ~4 months as the final project of my games-programming education at the SAE Institute.
@@ -42,6 +50,9 @@ Everything in [`Eternal_Grace_Arena/Source/`](Eternal_Grace_Arena/Source/) is my
 | UI | UMG widgets (health bars, progress/animated/blending widgets, title screen) |
 
 ---
+<div align="center">
+<img width="3042" height="1259" alt="EG3" src="https://github.com/user-attachments/assets/ce227888-227d-4335-9dcd-8e90603dab34" width = "600" />
+ </div>
 
 ## Engineering highlights
 
@@ -88,15 +99,10 @@ That ability to question my own code early is exactly what made the jump to the 
 
 ---
 
-## Media
-
 <div align="center">
-<img src="https://github.com/user-attachments/assets/aae29348-8c69-40fa-977a-e76bf4f3752b" alt="Eternal Grace Arena — title screen" width="480"/>
+<img width="2809" height="1300" alt="EG4" src="https://github.com/user-attachments/assets/d2215901-b4bf-4891-ac79-ca79592a9b55" width = "600" />
 </div>
 
-🎬 **Gameplay trailer:** https://youtu.be/dwP9lMNThy0
-
----
 
 ## License
 
